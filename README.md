@@ -69,6 +69,7 @@ $ npm install @nestjs/mongoose mongoose --save
 ## Encryption - Dependencies
 
 <li>bcrypt</li>
+
 ```bash
 $ npm install bcrypt --save
 ```
