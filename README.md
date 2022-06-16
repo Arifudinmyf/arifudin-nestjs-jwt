@@ -39,9 +39,7 @@
 <li>@nestjs/passport</li>
 <li>@nestjs/jwt</li>
 <li>passport</li>
-<li>passpor-jwt</li>
 <li>passport-local</li>
-<li>passport-strategy</li>
 <li>passport-strategy</li>
 
 ```bash
@@ -52,9 +50,12 @@ $ npm install @nestjs/passport @nestjs/jwt passport passport-local passport-stra
 
 <li>@types/passport-jwt</li>
 <li>@types/passport-local</li>
+<li>passport-jwt</li>
 
 ```bash
 $ npm install @types/passport-jwt @types/passport-local --save-dev
+
+$ npm i passport-jwt
 ```
 ## MongoDB - Dependencies
 
